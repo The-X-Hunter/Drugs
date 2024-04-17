@@ -1,0 +1,1 @@
+<!DOCTYPE html><html><head><title>404 Not Found</title></head><body><h1>Not Found</h1><p>The requested URL "https://db.idrblab.net/ttd/sites/default/files/ttd_database/P1-07-Drug-TargetMapping.xlsxhttps://db.idrblab.net/ttd/sites/default/files/ttd_database/P1-04-Drug_synonyms.txt" was not found on this server.</p></body></html>
